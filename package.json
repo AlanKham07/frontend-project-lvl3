@@ -1,5 +1,6 @@
 {
   "name": "@hexlet/code",
+  "type": "module",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/AlanKham07/frontend-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/AlanKham07/frontend-project-lvl3/actions)",
   "main": "index.js",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/AlanKham07/frontend-project-lvl3/issues"
   },
-  "homepage": "https://github.com/AlanKham07/frontend-project-lvl3#readme"
+  "homepage": "https://github.com/AlanKham07/frontend-project-lvl3#readme",
+  "dependencies": {
+    "badges": "^4.27.0",
+    "bootstrap": "^5.2.3",
+    "eslint": "^8.35.0"
+  }
 }
